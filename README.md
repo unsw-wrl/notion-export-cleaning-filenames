@@ -2,7 +2,7 @@
 
 I wrote a short Medium post here:
 
-[🧹 Cleaning Up Notion Export Filenames (Goodbye Random Strings)]([https://medium.com/your-article-url](https://medium.com/@jonowschan/cleaning-up-notion-export-filenames-fbf3ebee4005))
+[🧹 Cleaning Up Notion Export Filenames)](https://medium.com/@jonowschan/cleaning-up-notion-export-filenames-fbf3ebee4005)
 
 
 If you’ve ever exported a Notion page, you’ve probably seen this:
