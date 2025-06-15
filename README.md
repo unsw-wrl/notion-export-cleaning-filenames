@@ -8,6 +8,8 @@ That last part? It’s a unique identifier that Notion adds to keep everything i
 - **It looks messy.**
 - **The file paths get too long**, especially when nested pages are involved and then you can’t even open them properly on some systems.
 
+![A frustrated emoji looking at a Notion export error](images/Site cant be reached.png)
+
 ## 🛠️ The Fix
 
 This Python script renames all the exported files and folders to remove that random string, leaving just the clean title. **It also updates the links _inside_ the `.html` files** so everything still works — no broken internal links when you click around.
