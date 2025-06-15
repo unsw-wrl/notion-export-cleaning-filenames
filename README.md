@@ -8,7 +8,7 @@ That last part? It’s a unique identifier that Notion adds to keep everything i
 - **It looks messy.**
 - **The file paths get too long**, especially when nested pages are involved and then you can’t even open them properly on some systems.
 
-![A frustrated emoji looking at a Notion export error](images/Site cant be reached.png)
+![A frustrated emoji looking at a Notion export error](images/Site%20cant%20be%20reached.png)
 
 ## 🛠️ The Fix
 
