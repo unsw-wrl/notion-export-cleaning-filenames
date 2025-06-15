@@ -2,7 +2,7 @@
 
 I wrote a short Medium post here:
 
-[🧹 Cleaning Up Notion Export Filenames)](https://medium.com/@jonowschan/cleaning-up-notion-export-filenames-fbf3ebee4005)
+[🧹 Cleaning Up Notion Export Filenames](https://medium.com/@jonowschan/cleaning-up-notion-export-filenames-fbf3ebee4005)
 
 
 ## ⚠️ The Issue
