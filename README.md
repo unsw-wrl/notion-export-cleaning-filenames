@@ -6,7 +6,7 @@ If you’ve ever exported a Notion page, you’ve probably seen this:
 That last part? It’s a unique identifier that Notion adds to keep everything internally linked. It’s technically useful, but when you’re exporting stuff for actual use, it becomes a pain. Two main problems:
 
 - **It looks messy.**
-- **The file paths get too long**, especially when nested pages are involved — and then you can’t even open them properly on some systems. Good times.
+- **The file paths get too long**, especially when nested pages are involved and then you can’t even open them properly on some systems.
 
 ## 🛠️ The Fix
 
